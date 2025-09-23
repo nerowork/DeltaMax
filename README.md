@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Версия-В%20разработке-orange?style=for-the-badge" alt="Версия">
   <img src="https://img.shields.io/badge/Платформа-Android-blue?style=for-the-badge" alt="Платформа">
-  <img src="https://img.shields.io/badge/Minecraft-1.20+-brightgreen?style=for-the-badge" alt="Версия Minecraft">
+  <img src="https://img.shields.io/badge/DeltaMax+-brightgreen?style=for-the-badge" alt="Версия Minecraft">
 </p>
 
 <p align="center">
