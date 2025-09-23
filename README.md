@@ -5,9 +5,6 @@
   <img src="https://img.shields.io/badge/DeltaMax+-brightgreen?style=for-the-badge" alt="Версия Minecraft">
 </p>
 
-<p align="center">
-  <strong>Мощный мод для Minecraft: Bedrock Edition, открывающий новый потенциал игры.</strong>
-</p>
 
 ## ⚠️ Дисклеймер
 **Мод не касается и не изменяет обычное официальное приложение Max.**
